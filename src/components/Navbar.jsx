@@ -7,7 +7,7 @@ let [open,setOpen]=useState(false);
         <div className="md:flex bg-white py-2 justify-between">
             <div className="font-bold text-1xl cursor-pointer flex items-center font-serif text-gray-600 md:ml-8">
             <span className="text-3xl text-black mr-1 pt-2">
-                <img src="./src/assets/icon.png" alt="icon" className='md:ml-8 '/>
+                <img src="./assets/icon.png" alt="icon" className='md:ml-8 '/>
             </span >
             Creative Agency
             </div>

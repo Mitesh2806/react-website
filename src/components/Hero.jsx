@@ -13,7 +13,7 @@ const Hero = () => {
                 </div>
             </div>
             <div className="lg:w-1/2 ">
-                <img  className="ml-auto rounded-xl"src="./src/assets/building.jpg" alt="image"/>
+                <img  className="ml-auto rounded-xl"src="./assets/building.jpg" alt="image"/>
             </div>
         </div>
       </section>

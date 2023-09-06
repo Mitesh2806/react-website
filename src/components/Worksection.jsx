@@ -15,28 +15,28 @@ const Worksection = () => {
 <div class="grid grid-cols-2 md:grid-cols-3 gap-2">
     <div class="grid gap-2  ml-10">
         <div class="h-[190px]">
-            <img class=" h-auto max-w-full rounded-lg" src="./src/assets/short.jpg" alt=""/>
+            <img class=" h-auto max-w-full rounded-lg" src="./assets/short.jpg" alt=""/>
         </div>
         <div>
-            <img class="h-auto max-w-full rounded-lg" src="./src/assets/long.jpg" alt=""/>
+            <img class="h-auto max-w-full rounded-lg" src="./assets/long.jpg" alt=""/>
         </div>
         
     </div>
     <div class="grid gap-2  ">
         <div >
-            <img class=" max-w-full items-center rounded-lg" src="./src/assets/long.jpg" alt=""/>
+            <img class=" max-w-full items-center rounded-lg" src="./assets/long.jpg" alt=""/>
         </div>
         <div >
-            <img class=" max-w-full items-center rounded-lg" src="./src/assets/short.jpg" alt=""/>
+            <img class=" max-w-full items-center rounded-lg" src="./assets/short.jpg" alt=""/>
         </div>
         
     </div>
     <div class="grid gap-2 mr-10 ">
         <div class="h-[190px]">
-            <img class="h-auto max-w-full rounded-lg" src="./src/assets/short.jpg" alt=""/>
+            <img class="h-auto max-w-full rounded-lg" src="./assets/short.jpg" alt=""/>
         </div>
         <div>
-            <img class="h-auto max-w-full rounded-lg" src="./src/assets/long.jpg" alt=""/>
+            <img class="h-auto max-w-full rounded-lg" src="./assets/long.jpg" alt=""/>
         </div>
        
     </div>
